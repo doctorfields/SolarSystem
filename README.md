@@ -15,7 +15,7 @@ python SolarSystem.py
 
 ## Usage
 
-SolarSystem shows planets orbiting around the Sun considering only effects of gravity. Masses and distances are real, but radius of planets are widely exagerated, in order you can see them. It considers gravity caused by every single planet, but not other forces. Planets are considered to have no inclination with respect to the Ecliptic, and the direction of the apogeum (with respect to the Earth apogeum) and is choosen randomly.
+SolarSystem shows planets orbiting around the Sun considering only effects of gravity. Masses and distances are real, but radius of planets are widely exagerated, in order you can see them. It considers gravity caused by every single planet, but not other forces. Planets are considered to have no inclination with respect to the Ecliptic, and the direction of the apogeum (with respect to the Earth apogeum) is choosen randomly.
 
 > - You can rotate image with CTRL + MOUSE and make zoom with ALT + MOUSE.
 > - In the options, you can choose to see real radius of planets, to show/hide planet trails and what planets you want to be in you model.
