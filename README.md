@@ -24,5 +24,6 @@ SolarSystem shows planets orbiting around the Sun considering only effects of gr
 > - **New Ship**. When you click this button, a spacial ship (in green) is created in the Earth surface. Click and drag in the screen to generate an arrow which is going to be the impulse communicated to the ship. You can make as many impulses as you want. When you're done, click **Stop** button.
 > - **Add new planet**. Choose the mass, the radius and the virtual radius (the radius to show if _Real radius_ option in disabled) of your planet and click the button **Create a planet**. Click and drag in the screen to launch your planet; initial position will be the point you first click, and velocity will be proportional to the arrow dragged.
 
+![Screenshot](screenshot.png)
 
 _This software was developed by Martin Campos for the usage in simulations for UPhysicsC in collaboration with Pere Barber Llorenç and Daniel Romero Madueño._
